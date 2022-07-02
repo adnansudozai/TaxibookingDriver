@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>66368986032-5aat6d21levionhur0is5p75040jelqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.66368986032-5aat6d21levionhur0is5p75040jelqh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>66368986032-03g7aj66ocfj9ikpobdl9sv8mo505u1n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYEnt1uH8K8o9r8Vwdj71KQ1TvqTwgdn8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>66368986032</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.taximatdriverapp.demo</string>
+	<key>PROJECT_ID</key>
+	<string>taximat-189d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taximat-189d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:66368986032:ios:9e5515a61ee716157ed475</string>
+	<key>DATABASE_URL</key>
+	<string>https://taximat-189d3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
